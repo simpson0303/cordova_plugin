@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-countdown-dialog",
+  "version": "0.0.1",
+  "description": "A Cordova plugin for showing a progress indicator count down dialog",
+  "repository": "",
+  "cordova": {
+    "id": "cordova_plugin",
+    "platforms": [
+      "android"
+	  ]
+  },
+  "keywords": [
+    "cordova",
+    "countdown",
+    "countdowndialog",
+    "progress",
+    "indicator",
+   	"android",
+    "dialog"
+ ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "bugs": {
+    "url": ""
+  }
+}
